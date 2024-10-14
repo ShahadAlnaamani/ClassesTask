@@ -1,1 +1,18 @@
 Task is to outline classes based on given problem statement 
+
+E-commerce Platform
+Create a system for an online marketplace where vendors can list products, customers can browse products, place orders, and make payments. The platform should support product reviews and order tracking.
+
+Social Media Platform
+Create a design for a social media platform where users can post content, follow other users, like posts, and send private messages. Each user has a profile, and posts can include text, images, and videos.
+
+
+Transportation Booking System (e.g., Ride-Sharing)
+Design a system for a ride-sharing service where users can request rides, drivers accept requests, and payments are processed. The system should track the location of drivers and allow users to rate drivers.
+
+
+
+
+
+
+
